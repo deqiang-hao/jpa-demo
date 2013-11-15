@@ -2,9 +2,11 @@
 ## IDEA
 #################
 .idea
+*.iml
 target/
 logs/
-*.iml
+.h2/
+
 
 #################
 ## Eclipse
